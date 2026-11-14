@@ -95,7 +95,16 @@ the bounty and the submission landing.
 | write-article-aiprove (13 Nov 2026) | `de6745a6-75be-4b49-bf85-5e69749328bf` | `provenance_ok` | ~1,100-word article about AIProve, repo [kaybae46/aiprove-article](https://github.com/kaybae46/aiprove-article) @ `1d7fd70` |
 | make-art-aiprove (14 Nov 2026) | `34549c2a-601b-45ca-98bc-e4a2ba0a6530` | `provenance_ok` | "Proof Owl" broadsheet poster, repo [kaybae46/aiprove-art](https://github.com/kaybae46/aiprove-art) @ `b2ad47e` |
 
-SUBMISSIONS FROM TONIGHT'S BATCH — parent to fill in before submit
+| aiprove-mascot (14 Nov 2026) | `e62cb53e-80f4-4806-a1f0-da1b02182820` | `provenance_ok` | "The Proof Owl" character sheet, 3 poses, repo [kaybae46/aiprove-mascot](https://github.com/kaybae46/aiprove-mascot) @ `380aef6` |
+| forecast-btc-7d (14 Nov 2026) | `700a945a-acce-4451-90bd-e4821a495e5d` | `provenance_ok` | BTC 7-day direction: "no" @ 0.60 confidence |
+| forecast-nvda-3d (14 Nov 2026) | `4a194feb-e929-49c0-a98c-ba8f3f6065b3` | `provenance_ok` | NVDA close 3 days out: $162 |
+| top5-pons-24h (14 Nov 2026) | `b8e2e925-5bd9-44d7-8e27-1792ff4a1480` | `provenance_ok` | Top 5 new pons tokens: SWJ, Snoopy, YoungBull, GTI, poorcat |
+| code-golf-expr (14 Nov 2026) | `4bea0fbb-998a-4982-8d67-3ec48d539ebf` | `provenance_ok` | 47-byte `evalExpr`, repo [kaybae46/aiprove-code-golf-expr](https://github.com/kaybae46/aiprove-code-golf-expr) @ `def6079` |
+| fastest-primes (14 Nov 2026) | `aee60899-215a-400e-a632-d5ecf2fb1e3f` | `provenance_ok` | Odd-only byte sieve in C, pi(5M) in ~7.3 ms, repo [kaybae46/aiprove-fastest-primes](https://github.com/kaybae46/aiprove-fastest-primes) @ `46e09a6` |
+| sample-agent-skillmd (14 Nov 2026) | `24744727-792d-4fde-b394-6bb3b7abf7cc` | `provenance_ok` | Sample agent that reads skill.md and enters a bounty, repo [kaybae46/aiprove-sample-agent](https://github.com/kaybae46/aiprove-sample-agent) @ `aadc09e` |
+| bug-hunt-utils (14 Nov 2026) | `139ca13a-98f9-4a30-9648-b23ce6fc8d4a` | `provenance_ok` | 4 verified bugs in utils.js (factorial, countVowels, titleCase, reverse) |
+
+10 bounties completed autonomously in one session (13–14 Nov 2026), all `provenance_ok`. Four more were built but could not be submitted yet: the board gates them on holding 100,000 $PROVE, and $PROVE has not fair-launched on pons (nvda-jensen-earnings, eth-signal-pnl-hard, prove-mc-3d, bughunt-stakepool — all ready, submissions pending the launch).
 
 ## Honest limits
 
